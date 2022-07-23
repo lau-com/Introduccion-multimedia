@@ -4,3 +4,17 @@
     height: 48px;
     width: 48px;
 }
+
+.btn{
+    background-color: rgb(51, 59, 167);
+    margin-right: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: white;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    position: relative;
+    bottom: 0px;
+    transition-duration: 1s;
+}
